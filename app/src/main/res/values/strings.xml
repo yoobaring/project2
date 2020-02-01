@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SqliteRecyclerview</string>
+    <string name="hint_id">ID</string>
+<!--    <string name="hint_confirm_password">Confirm Password</string>-->
+    <string name="beneficiaryaddress">คำอ่าน</string>
+    <string name="beneficiarycountry">ความหมาย</string>
+    <string name="register_benef">บันทึกข้อมูล</string>
+    <string name="show_list_benef">กรุณากรอกให้ครบทุกช่อง</string>
+<!--    <string name="error_email_exists">Email Already Exists</string>-->
+    <string name="error_message_name">Enter Full Name</string>
+<!--    <string name="error_message_email">Enter Valid Email</string>-->
+
+    <string name="hint_name">คำศัพท์</string>
+
+</resources>
